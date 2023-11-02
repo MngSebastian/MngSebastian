@@ -6,7 +6,7 @@
 
 💻 Programming Languages: JavaScript, TypeScript
 					
-🔧Technologies & Tools: React, Redux, React Hooks, Node.js, Express.js, GraphQL, Babel, RESTful APIs, Babel, Webpack, Jest, Lighthouse, Sentry, MongoDB, MaterialUI, Styled-components, TailwindCSS, Bootstrap, Html, CSS, SCSS, Auth0, Postman, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
+🔧Technologies & Tools: React, Redux, React Hooks, Node.js, Express.js, GraphQL, Babel, RESTful APIs, Babel, Webpack, Jest, Lighthouse, Sentry, MongoDB, MaterialUI, Styled-components, TailwindCSS, Bootstrap, Html, CSS, SCSS, Auth0, Postman,SQL, PostgreSQL, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
 
 ☁️ Cloud: CI/CD, Git, Github, Gitlab, AWS(EC2,S3), Vercel, Netlify
 
